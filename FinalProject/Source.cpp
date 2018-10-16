@@ -1,6 +1,7 @@
 //
 // Created by Michal Loska on 25/05/2018.
-//
+//test
+// 
 
 ///////////////////////////////////////////////////////////////////////////
 // C++ code generated with wxFormBuilder (version Jun 17 2015)
